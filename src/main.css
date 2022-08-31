@@ -835,10 +835,6 @@ video {
   background-size: cover;
 }
 
-.bg-\[position\:center_bottom\2c _right_-15px_bottom_-20px\2c _left_0px_bottom_0px\]{
-  background-position: center bottom, right -15px bottom -20px, left 0px bottom 0px;
-}
-
 .bg-no-repeat{
   background-repeat: no-repeat;
 }
@@ -1189,8 +1185,8 @@ input:not(:placeholder-shown):not(:focus):invalid+.required-txt {
   }
 
   .sitenav__link {
-    font-size: 12px;
-    font-weight: 400;
+    font-size: 13px;
+    font-weight: 500;
     line-height: 14px;
     color: #33323d
   }

@@ -136,7 +136,6 @@
 }
 
 
-
 @media only screen and (min-width: 577px) and (max-width: 767px) {
     .bg-\[url\(\/src\/image\/bg-oval\.svg\)\2c _url\(\/src\/image\/bg-oval2\.svg\)\] {
         background-size: 100% , 100%;
@@ -225,8 +224,8 @@ input:not(:placeholder-shown):not(:focus):invalid+.required-txt {
     }
     
     .sitenav__link {
-        font-size: 12px;
-        font-weight: 400;
+        font-size: 13px;
+        font-weight: 500;
         line-height: 14px;
         color: #33323d
     }
