@@ -119,7 +119,6 @@
     background-size: 900px, 900px;
 }
 
-
 @media only screen and (min-width: 320px) and (max-width: 576px) {
     .bg-\[url\(\/src\/image\/bg-oval\.svg\)\2c _url\(\/src\/image\/bg-oval2\.svg\)\] {
         background-size: 542px , 429px;

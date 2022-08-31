@@ -823,12 +823,12 @@ video {
   background-color: rgb(29 30 37 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\/src\/image\/bg-oval\.svg\)\2c _url\(\/src\/image\/bg-oval2\.svg\)\]{
-  background-image: url(/src/image/bg-oval.svg), url(/src/image/bg-oval2.svg);
+.bg-\[url\(\/image\/bg-oval\.svg\)\2c _url\(\/image\/bg-oval2\.svg\)\]{
+  background-image: url(/image/bg-oval.svg), url(/image/bg-oval2.svg);
 }
 
-.bg-\[url\(\/src\/image\/article-mob\.jpg\)\]{
-  background-image: url(/src/image/article-mob.jpg);
+.bg-\[url\(\/image\/article-mob\.jpg\)\]{
+  background-image: url(/image/article-mob.jpg);
 }
 
 .bg-cover{
@@ -1237,8 +1237,8 @@ input:not(:placeholder-shown):not(:focus):invalid+.required-txt {
     display: none;
   }
 
-  .md\:bg-\[url\(\/src\/image\/article\.png\)\]{
-    background-image: url(/src/image/article.png);
+  .md\:bg-\[url\(\/image\/article\.png\)\]{
+    background-image: url(/image/article.png);
   }
 
   .md\:pt-24{
