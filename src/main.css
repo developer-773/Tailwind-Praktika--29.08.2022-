@@ -823,12 +823,12 @@ video {
   background-color: rgb(29 30 37 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\/image\/bg-oval\.svg\)\2c _url\(\/image\/bg-oval2\.svg\)\]{
-  background-image: url(/image/bg-oval.svg), url(/image/bg-oval2.svg);
+.bg-\[url\(image\/bg-oval\.svg\)\2c _url\(image\/bg-oval2\.svg\)\]{
+  background-image: url(image/bg-oval.svg), url(image/bg-oval2.svg);
 }
 
-.bg-\[url\(\/image\/article-mob\.jpg\)\]{
-  background-image: url(/image/article-mob.jpg);
+.bg-\[url\(image\/article-mob\.jpg\)\]{
+  background-image: url(image/article-mob.jpg);
 }
 
 .bg-cover{
@@ -1083,13 +1083,13 @@ video {
   min-height: 288px;
 }
 
-.bg-\[url\(\/src\/image\/bg-oval\.svg\)\2c _url\(\/src\/image\/bg-oval2\.svg\)\] {
+.bg-\[url\(image\/bg-oval\.svg\)\2c _url\(image\/bg-oval2\.svg\)\] {
   background-position: calc(50% + 503px) calc(0% - 157px), calc(50% - 812px) calc(0% + 1156px);
   background-size: 900px, 900px;
 }
 
 @media only screen and (min-width: 320px) and (max-width: 576px) {
-  .bg-\[url\(\/src\/image\/bg-oval\.svg\)\2c _url\(\/src\/image\/bg-oval2\.svg\)\] {
+  .bg-\[url\(image\/bg-oval\.svg\)\2c _url\(image\/bg-oval2\.svg\)\] {
     background-size: 542px , 429px;
     background-position: calc(50% + 104px) calc(0% - 111px), calc(50% + 297px) calc(0% + 486px);
   }
@@ -1105,21 +1105,21 @@ video {
 }
 
 @media only screen and (min-width: 577px) and (max-width: 767px) {
-  .bg-\[url\(\/src\/image\/bg-oval\.svg\)\2c _url\(\/src\/image\/bg-oval2\.svg\)\] {
+  .bg-\[url\(image\/bg-oval\.svg\)\2c _url\(image\/bg-oval2\.svg\)\] {
     background-size: 100% , 100%;
     background-position: calc(50% + 125px) calc(0% - 35px), calc(50% - 517px) calc(0% + 1156px);
   }
 }
 
 @media only screen and (min-width: 768px) {
-  .bg-\[url\(\/src\/image\/bg-oval\.svg\)\2c _url\(\/src\/image\/bg-oval2\.svg\)\] {
+  .bg-\[url\(image\/bg-oval\.svg\)\2c _url\(image\/bg-oval2\.svg\)\] {
     background-position: calc(50% + 210px) calc(0% - 36px), calc(50% - 582px) calc(0% + 1156px);
     background-size: 763px, 700px;
   }
 }
 
 @media only screen and (min-width: 1024px) {
-  .bg-\[url\(\/src\/image\/bg-oval\.svg\)\2c _url\(\/src\/image\/bg-oval2\.svg\)\] {
+  .bg-\[url\(image\/bg-oval\.svg\)\2c _url\(image\/bg-oval2\.svg\)\] {
     background-position: calc(50% + 503px) calc(0% - 157px), calc(50% - 812px) calc(0% + 1156px);
     background-size: 900px, 900px;
   }
@@ -1201,7 +1201,7 @@ input:not(:placeholder-shown):not(:focus):invalid+.required-txt {
 }
 
 .sitenav-on .toggle-btn{
-  background-image: url("../src/image/toggle-close.svg");
+  background-image: url("image/toggle-close.svg");
   background-repeat: no-repeat;
 }
 
@@ -1237,8 +1237,8 @@ input:not(:placeholder-shown):not(:focus):invalid+.required-txt {
     display: none;
   }
 
-  .md\:bg-\[url\(\/image\/article\.png\)\]{
-    background-image: url(/image/article.png);
+  .md\:bg-\[url\(image\/article\.png\)\]{
+    background-image: url(image/article.png);
   }
 
   .md\:pt-24{
