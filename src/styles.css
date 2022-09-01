@@ -21,12 +21,13 @@
 
 .toggle-btn{
     display: inline-block;
-    width: 24px;
-    height: 24px;
-    background-image: url("image/toggle-open.svg");
+    width: 25px;
+    height: 18px;
+    background-image: url("images/toggle-open.svg");
     background-repeat: no-repeat;
-    border: none;
     background-color: transparent;
+    border: none;
+
 }
 
 
