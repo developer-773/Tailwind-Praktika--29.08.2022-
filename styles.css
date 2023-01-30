@@ -248,5 +248,5 @@ input:not(:placeholder-shown):not(:focus):invalid+.required-txt {
 }
 
 .overflow{
-    overflow: hidden;
+    overflow-y: hidden;
 }
